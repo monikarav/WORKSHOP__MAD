@@ -20,7 +20,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
-
 ## PROGRAM:
 ```
 Program to print the text “ExplicitIntent”.
@@ -28,12 +27,9 @@ Developed by: DHANALAKSHMI S
 Registeration Number : 212222040033
 ```
 ## MainActivity.java:
-
 ```
 package com.example.workshop;
-
 import android.os.Bundle;
-
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
@@ -79,12 +75,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
-
-
-
 ## MainActivity2.java:
-
 ```
 package com.example.workshop;
 
